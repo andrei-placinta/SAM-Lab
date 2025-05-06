@@ -1,5 +1,12 @@
 # Proiect laborator SAM
 
+## OWASP Android App Reverse Engineering
+
+
+* <i>Performed reverse engineering on the OWASP Uncrackable Level 1 Android app using static and dynamic analysis.</i></br>
+* <i>Used tools like Frida, Jadx, and APKTool to bypass anti-root protections and extract encrypted data.</i>
+
+
 ### User variables:
 ANDROID_HOME C:\Users\andrei\AppData\Local\Android\Sdk</br>
 We recommend setting the environment variable for ANDROID_HOME when using the command line.
